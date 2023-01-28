@@ -1,30 +1,23 @@
-<h1 align="center">
-Welcome! 
-</h1>
+# Welcome!
 
-<p align="center">🏉🏟 &nbsp; ➡️ &nbsp;  🧑🏻‍💻</p>
+🏉🏟 &nbsp; ➡️ &nbsp;  🧑🏻‍💻
 
-<b><h3 align="center">Former Professional Rugby Player turned Software Developer</h3> 
-<p align="center">Currently studying on the Professional Web Development course @CodeClan in cohort G34</p>   
+### Former Professional Rugby Player turned Software Developer 
+Currently studying Professional Web Development at CodeClan | G34 📚   
 
   
     
-<h2 align="center">    
+<h2>    
 Skills and Experience
 </h2>
   
   
-<b><p align="center">Python • HTML & CSS • PostreSQL • Javascript • React • Express • MongoDB • Java • Spring</p></b>
+- Python • HTML & CSS • PostreSQL • Javascript • React • Express • MongoDB • Java • Spring</p></b>
 
-<b><p align="center">Agile methodologies, TDD and OOP </p></b>
+- Agile methodologies, TDD and OOP</p></b>
 
 ## Projects
-- [Project Name](link): A brief description of the project and what it does.
-- [Project Name](link): A brief description of the project and what it does.
-- [Project Name](link): A brief description of the project and what it does.
+- [Gym Management App](https://github.com/ljones-11/dfgym_manager): Admin system to control gym members, classes and bookings. Solo Project built using Python, Flask & PostgreSQL  
 
-## Education
-- Professional Web Development, CodeClan (2022-2023)
-- BEng Mechanical Engineering, Heriot-Watt University (2006-2011)
+- [Adoption Charity App](https://github.com/ljones-11/pet-shelter-app): Users can browse available pets and submit adoption requests with full admin functionality for the charity management. Group project built using React JS, Express.js and MongoDB
 
-Feel free to check out my projects. If you have any questions or wish to collaborate on a project, please reach out!
