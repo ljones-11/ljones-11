@@ -1,8 +1,5 @@
 # Welcome 🙋🏻‍♂️
 
-🏉🏟 &nbsp; ➡️ &nbsp;  🧑🏻‍💻
-
-### Former Professional Rugby Player turned Software Developer 
 - 📚 Currently studying Professional Web Development at CodeClan | G34    
 
   
