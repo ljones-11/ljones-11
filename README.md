@@ -12,6 +12,11 @@
 Skills and Experience
 </h2>
 
+- Python • HTML & CSS • PostreSQL • Javascript • React • Express • MongoDB • Java • Spring</p></b>
+- Agile methodologies, TDD and OOP</p></b>
+
+<hr></hr>
+<div align="center">
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50px /> &nbsp;
@@ -26,11 +31,8 @@ Skills and Experience
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height=50px/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height=50px/>&nbsp;
 </span>
-<br></br>
-
- - Agile methodologies, TDD and OOP</p></b>
-
-
+  </div>
+<hr></hr>
 
 ## Projects
 - [Gym Management App](https://github.com/ljones-11/dfgym_manager): Admin system to control gym members, classes and bookings. Solo Project built using Python, Flask & PostgreSQL  
