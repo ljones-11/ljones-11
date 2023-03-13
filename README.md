@@ -37,7 +37,7 @@ Skills and Experience
 ## Projects
 - [Gym Management App](https://github.com/ljones-11/dfgym_manager): Admin system to control gym members, classes and bookings. Solo Project built using Python, Flask & PostgreSQL  
 
-- [Pet Adoption Charity App](https://github.com/ljones-11/pet-shelter-app): Users can browse available pets and submit adoption requests with full admin functionality for the charity management. Group project built in 5 days using React JS, Express.js and MongoDB
+- [FurFinder - Pet Adoption Charity App](https://github.com/ljones-11/pet-shelter-app): Users can browse available pets and submit adoption requests with full admin functionality for the charity management. Group project built in 5 days using React JS, Express.js and MongoDB
 
-- [Calorie Calculator & Tracking App - Front-end](https://github.com/larrywongkahei/MacrOS) | [Back-end](https://github.com/mwmarszalek/MacrOS_backend): Full-stack app allowing users to generate goals, track nutritional habits using a built in database and view visual feedback on progress. Group project built in 12 days using Java, Spring Boot, React JS, PostgreSQL and Bootstrap
+- [macrOS - Calorie Calculator & Tracking App - Front-end](https://github.com/larrywongkahei/MacrOS) | [Back-end](https://github.com/mwmarszalek/MacrOS_backend): Full-stack app allowing users to generate goals, track nutritional habits using a built in database and view visual feedback on progress. Group project built in 12 days using Java, Spring Boot, React JS, PostgreSQL and Bootstrap
 
