@@ -3,7 +3,7 @@
 - 💻 Junior software developer with over 12 years of experience in professional sport.
 - 👨🏻‍🎓 CodeClan graduate | G34 
 - 📚 Looking forward to continuing to learn more across full-stack development.
-- 💡 I enjoy finding solutions to problems using both the logical and creative approaches in software.
+- 💡 I enjoy finding solutions to problems using both the logical and creative approaches in software development.
 
   
     
