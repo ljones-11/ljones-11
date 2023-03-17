@@ -4,7 +4,7 @@
 - 🔩 Mechanical Engineering graduate.
 - 👨🏻‍🎓 CodeClan Professional Software Development | G34 
 - 📚 Looking forward to continuing to learn more across full-stack development.
-- 💡 I enjoy finding solutions to problems using both the logical and creative approaches in software development.
+- 💡 I enjoy finding solutions to problems using both the logical and creative approaches in software.
 
   
     
